@@ -1,0 +1,11 @@
+Mostrar todas las enfermedades:
+(facts)
+
+Agregar una enfermedad nueva:
+(agregar-enfermedad "Dengue" "Viral" "Fiebre alta, erupciones" "Dolor muscular, dolor detrás de los ojos")
+
+Actualizar una enfermedad existente:
+(actualizar-enfermedad "Gripe" "Viral aguda" "Fiebre alta, dolor muscular" "Tos seca, congestión severa")
+
+Eliminar una enfermedad:
+(borrar-enfermedad "Amigdalitis")
